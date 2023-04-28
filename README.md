@@ -6,3 +6,10 @@ You can type the command pip install python-binance on your terminal screen for 
 
 
 " pip install python-binance "
+
+
+The Python file you will use to run the bot is main.py. This bot is for testing purposes, please use it by doing your risk analysis, I do not accept any responsibility.
+
+
+eCloud Tech.
+https://www.e-cloud.web.tr/
